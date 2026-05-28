@@ -7,3 +7,5 @@ Graceful degradation and service workers are related because service workers are
 
 
   **[GitHub Pages Link](https://arw008-droid.github.io/Lab8_Starter_Copy/)**
+
+  ![Lab 8 PWA](pwa.png "Lab 8 PWA")
